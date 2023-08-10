@@ -499,25 +499,44 @@ http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 ,SDD Sports(BD3)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8 
 
-#EXTINF:-1 ,Sun Bangla http://103.141.2.37:25461/web/web/589 
-#EXTINF:-1 ,Independent http://103.141.2.37:25461/web/web/590 
-#EXTINF:-1 ,Sony_Aath http://103.141.2.37:25461/web/web/591 
-#EXTINF:-1 ,GTV http://103.141.2.37:25461/web/web/592 
-#EXTINF:-1 ,Travelxp HD http://103.141.2.37:25461/web/web/593 
-#EXTINF:-1 ,Channel I http://103.141.2.37:25461/web/web/595 
-#EXTINF:-1 ,Maasranga http://103.141.2.37:25461/web/web/596 
-#EXTINF:-1 ,Somoy TV http://103.141.2.37:25461/web/web/597 
-#EXTINF:-1 ,Zee_Bangla_Cinema http://103.141.2.37:25461/web/web/598 
-#EXTINF:-1 ,Colore Bangla Cinema http://103.141.2.37:25461/web/web/599 
-#EXTINF:-1 ,Colors Bangla http://103.141.2.37:25461/web/web/601 
-#EXTINF:-1 ,Zee Bangla HD http://103.141.2.37:25461/web/web/602 
-#EXTINF:-1 ,Sangeet http://103.141.2.37:25461/web/web/604 
-#EXTINF:-1 ,Enterr 10 http://103.141.2.37:25461/web/web/606 
-#EXTINF:-1 ,ATN TV http://103.141.2.37:25461/web/web/612 
-#EXTINF:-1 ,Nick http://103.141.2.37:25461/web/web/615 
-#EXTINF:-1 ,Madani Channel http://103.141.2.37:25461/web/web/618 
-#EXTINF:-1 ,Zee Bangla https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8 
-#EXTINF:-1 ,GAZI TV http://freecatv-manik.xyz/GAZITVmanik.m3u8
+#EXTINF:-1 ,Sun Bangla 
+http://103.141.2.37:25461/web/web/589 
+#EXTINF:-1 ,Independent 
+http://103.141.2.37:25461/web/web/590 
+#EXTINF:-1 ,Sony_Aath 
+http://103.141.2.37:25461/web/web/591 
+#EXTINF:-1 ,GTV 
+http://103.141.2.37:25461/web/web/592 
+#EXTINF:-1 ,Travelxp HD 
+http://103.141.2.37:25461/web/web/593 
+#EXTINF:-1 ,Channel I 
+http://103.141.2.37:25461/web/web/595 
+#EXTINF:-1 ,Maasranga 
+http://103.141.2.37:25461/web/web/596 
+#EXTINF:-1 ,Somoy TV 
+http://103.141.2.37:25461/web/web/597 
+#EXTINF:-1 ,Zee_Bangla_Cinema 
+http://103.141.2.37:25461/web/web/598 
+#EXTINF:-1 ,Colore Bangla Cinema 
+http://103.141.2.37:25461/web/web/599 
+#EXTINF:-1 ,Colors Bangla 
+http://103.141.2.37:25461/web/web/601 
+#EXTINF:-1 ,Zee Bangla HD 
+http://103.141.2.37:25461/web/web/602 
+#EXTINF:-1 ,Sangeet 
+http://103.141.2.37:25461/web/web/604 
+#EXTINF:-1 ,Enterr 10 
+http://103.141.2.37:25461/web/web/606 
+#EXTINF:-1 ,ATN TV
+http://103.141.2.37:25461/web/web/612 
+#EXTINF:-1 ,Nick 
+http://103.141.2.37:25461/web/web/615 
+#EXTINF:-1 ,Madani Channel 
+http://103.141.2.37:25461/web/web/618 
+#EXTINF:-1 ,Zee Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8 
+#EXTINF:-1 ,GAZI TV 
+http://freecatv-manik.xyz/GAZITVmanik.m3u8
 
 
 
