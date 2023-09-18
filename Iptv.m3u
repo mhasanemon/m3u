@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 ,Star Jalsha 
+http://cinemabazar.net:8080/hls/starjalsha.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 ,Star Jalsha 
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee Bangla 
+http://cinemabazar.net:8080/hls/zeebanglahd.m3u8
+#EXTINF:-1 ,Zee Bangla 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:-1 ,Zee Bangla 
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="IPTV by Aftab", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="IPTV by Aftab", Channel i
@@ -97,18 +109,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 
 # Kolkata Channel
-#EXTINF:-1 ,Star Jalsha 
-http://cinemabazar.net:8080/hls/starjalsha.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 ,Star Jalsha 
-http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Bangla 
-http://cinemabazar.net:8080/hls/zeebanglahd.m3u8
-#EXTINF:-1 ,Zee Bangla 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1 ,Zee Bangla 
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,Sony Aath
