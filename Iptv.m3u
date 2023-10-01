@@ -116,6 +116,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/tracks-v1a1/mono.m3u8
 # Sports
 #EXTINF:-1 ,Sports
 http://103.144.200.9/hls/gazitv/index.m3u8
+#EXTINF:-1 ,Sports 18
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,Star Sports 1
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Sports 1
@@ -136,6 +138,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452806/792716833.jpeg" group-title="Sports Channel", Viaplay
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,Ten Sports
+http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
 
 # Hindi
 
@@ -165,6 +169,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Enter10
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:-1 ,Colors Superhits
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 
 # Hindi song
 #EXTINF:-1 ,B4U Music
